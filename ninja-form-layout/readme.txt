@@ -29,3 +29,6 @@ This plugin requires the Ninja Forms plugin.
 2. 'assets/screenshot-2.png'
 
 == Changelog ==
+
+= 1.0 =
+* First tagged version
