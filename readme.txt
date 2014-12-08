@@ -3,8 +3,8 @@ Contributors: marclloyd77
 Donate link: http://marclloyd.co.uk/
 Tags: Ninja Forms, Layout, fieldset, div, Ninja Forms Layout
 Requires at least: 2.8.6
-Tested up to: 2.8.7
-Stable tag: 2.8.6
+Tested up to: 4.0.1
+Stable tag: 4.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
