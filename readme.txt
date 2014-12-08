@@ -25,8 +25,8 @@ This plugin requires the Ninja Forms plugin.
 
 == Screenshots ==
 
-1. 'assets/screenshot.jpg'
-2. 'assets/screenshot-2.png'
+1. Fieldset start element.
+2. Additional fieldset and div opions.
 
 == Changelog ==
 
