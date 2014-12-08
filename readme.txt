@@ -30,5 +30,9 @@ This plugin requires the Ninja Forms plugin.
 
 == Changelog ==
 
+= 1.1 =
+* Adjusting file structure
+
 = 1.0 =
 * First tagged version
+
