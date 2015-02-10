@@ -30,6 +30,9 @@ This plugin requires the Ninja Forms plugin.
 
 == Changelog ==
 
+= 1.2 =
+* Bug Fix: Checkling ninja_forms_register_field exists before calling
+
 = 1.1 =
 * Adjusting file structure
 

@@ -3,7 +3,7 @@
    Plugin Name: Ninja Form Layout
    Plugin URI: http://marclloyd.co.uk
    Description: A plugin to add fieldset and div options to Ninja Forms for layout. Includes the option for custom classes.
-   Version: 1.1
+   Version: 1.2
    Author: Marc Lloyd
    Author URI: http://marclloyd.co.uk
    License: GPL2
