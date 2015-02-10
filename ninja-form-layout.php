@@ -39,7 +39,10 @@ function ninja_forms_register_field_fieldset_start(){
         'process_field' => false,
 	);
 
-	ninja_forms_register_field('_fieldset_start', $args);
+    if( function_exists( 'ninja_forms_register_field' ) ) {
+        ninja_forms_register_field('_fieldset_start', $args);
+    }
+
 }
 
 add_action('init', 'ninja_forms_register_field_fieldset_start');
